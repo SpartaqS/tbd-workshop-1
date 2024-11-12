@@ -1,6 +1,6 @@
 # vpc
 
-<!-- BEGINNING OF PRE-COMMIT-TERRAFORM DOCS HOOK -->
+<!-- BEGIN_TF_DOCS -->
 ## Requirements
 
 | Name | Version |
@@ -44,4 +44,4 @@
 |------|-------------|
 | <a name="output_network"></a> [network](#output\_network) | VPC id |
 | <a name="output_subnets"></a> [subnets](#output\_subnets) | VPC subnets map |
-<!-- END OF PRE-COMMIT-TERRAFORM DOCS HOOK -->
+<!-- END_TF_DOCS -->
