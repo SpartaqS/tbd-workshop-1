@@ -1,6 +1,6 @@
 # dbt_docker_image
 
-<!-- BEGINNING OF PRE-COMMIT-TERRAFORM DOCS HOOK -->
+<!-- BEGIN_TF_DOCS -->
 ## Requirements
 
 | Name | Version |
@@ -42,4 +42,4 @@ No modules.
 |------|-------------|
 | <a name="output_dbt_image_name"></a> [dbt\_image\_name](#output\_dbt\_image\_name) | n/a |
 | <a name="output_dbt_image_uri"></a> [dbt\_image\_uri](#output\_dbt\_image\_uri) | Jupyterlab image URI |
-<!-- END OF PRE-COMMIT-TERRAFORM DOCS HOOK -->
+<!-- END_TF_DOCS -->
