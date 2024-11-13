@@ -134,7 +134,7 @@ SELECT * FROM demo.shakespeare ORDER BY sum_word_count DESC LIMIT 5;
 terraform init -backend-config=env/backend.tfvars
 terraform destroy -no-color -var-file env/project.tfvars 
 ```
-<!-- BEGINNING OF PRE-COMMIT-TERRAFORM DOCS HOOK -->
+<!-- BEGIN_TF_DOCS -->
 ## Requirements
 
 | Name | Version |
@@ -184,4 +184,4 @@ terraform destroy -no-color -var-file env/project.tfvars
 ## Outputs
 
 No outputs.
-<!-- END OF PRE-COMMIT-TERRAFORM DOCS HOOK -->
+<!-- END_TF_DOCS -->

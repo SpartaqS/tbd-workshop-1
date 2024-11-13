@@ -48,4 +48,4 @@ terraform apply -var-file=../env/project.tfvars
 ## Outputs
 
 No outputs.
-<!-- END OF PRE-COMMIT-TERRAFORM DOCS HOOK -->
+<!-- END_TF_DOCS -->

@@ -1,6 +1,6 @@
 # metastore
 
-<!-- BEGINNING OF PRE-COMMIT-TERRAFORM DOCS HOOK -->
+<!-- BEGIN_TF_DOCS -->
 ## Requirements
 
 | Name | Version |
@@ -39,4 +39,4 @@ No modules.
 | Name | Description |
 |------|-------------|
 | <a name="output_metastore_name"></a> [metastore\_name](#output\_metastore\_name) | Metastore server name |
-<!-- END OF PRE-COMMIT-TERRAFORM DOCS HOOK -->
+<!-- END_TF_DOCS -->

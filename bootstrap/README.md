@@ -39,7 +39,7 @@ No modules.
 |------|-------------|
 | <a name="output_project_name"></a> [project\_name](#output\_project\_name) | Project identifier |
 | <a name="output_terraform_state_bucket"></a> [terraform\_state\_bucket](#output\_terraform\_state\_bucket) | Terraform state bucket |
-<!-- BEGINNING OF PRE-COMMIT-TERRAFORM DOCS HOOK -->
+<!-- BEGIN_TF_DOCS -->
 ## Requirements
 
 | Name | Version |
@@ -85,4 +85,4 @@ No modules.
 | <a name="output_project_name"></a> [project\_name](#output\_project\_name) | Project identifier |
 | <a name="output_terraform_service_account"></a> [terraform\_service\_account](#output\_terraform\_service\_account) | Terraform service account |
 | <a name="output_terraform_state_bucket"></a> [terraform\_state\_bucket](#output\_terraform\_state\_bucket) | Terraform state bucket |
-<!-- END OF PRE-COMMIT-TERRAFORM DOCS HOOK -->
+<!-- END_TF_DOCS -->

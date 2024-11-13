@@ -1,6 +1,6 @@
 # docker_image
 
-<!-- BEGINNING OF PRE-COMMIT-TERRAFORM DOCS HOOK -->
+<!-- BEGIN_TF_DOCS -->
 ## Requirements
 
 | Name | Version |
@@ -38,4 +38,4 @@ No modules.
 | Name | Description |
 |------|-------------|
 | <a name="output_mlflow_image_uri"></a> [mlflow\_image\_uri](#output\_mlflow\_image\_uri) | MLflow imager URI |
-<!-- END OF PRE-COMMIT-TERRAFORM DOCS HOOK -->
+<!-- END_TF_DOCS -->
