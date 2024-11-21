@@ -5,9 +5,6 @@ IMPORTANT ❗ ❗ ❗ Please remember to destroy all the resources after each wo
 1. Authors:
 
    GROUP NR: 13
-   Gabriel Skowron-Rodriguez 
-   Jakub Rozkosz 
-   Aleksandra Gryzik 
    Link to forked repo: https://github.com/SpartaqS/tbd-workshop-1.git
 
    ***link to forked repo***
