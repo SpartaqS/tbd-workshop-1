@@ -4,18 +4,27 @@ IMPORTANT ❗ ❗ ❗ Please remember to destroy all the resources after each wo
 
 1. Authors:
 
-   ***enter your group nr***
-
-   ***link to forked repo***
+   <p>Group nr: 13</p>
+   <p>Members:</p>
+   <ul>
+     <li>Gabriel Skowron-Rodriguez </li>
+   <li>Jakub Rozkosz</li>
+   <li>Aleksandra Gryzik</li>
+   </ul>
+   <p>Link to forked repo: <a>https://github.com/SpartaqS/tbd-workshop-1.git</a></p>
    
-2. Follow all steps in README.md.
+1. Follow all steps in README.md.
 
-3. Select your project and set budget alerts on 5%, 25%, 50%, 80% of 50$ (in cloud console -> billing -> budget & alerts -> create buget; unclick discounts and promotions&others while creating budget).
+2. Select your project and set budget alerts on 5%, 25%, 50%, 80% of 50$ (in cloud console -> billing -> budget & alerts -> create buget; unclick discounts and promotions&others while creating budget).
 
   ![img.png](doc/figures/discounts.png)
 
+![img.png](doc/figures/tbd-fig-1-budget.png)
+
 5. From avaialble Github Actions select and run destroy on main branch.
-   
+
+![img.png](doc/figures/tbd-fig-destroy-1.png)   
+
 7. Create new git branch and:
     1. Modify tasks-phase1.md file.
     
